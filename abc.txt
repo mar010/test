@@ -2,6 +2,7 @@
 
  inca ceva
 
- -ceva omis
+ ceva omis
 
- +ceva pt verificare
+ ceva pt verificare
+
